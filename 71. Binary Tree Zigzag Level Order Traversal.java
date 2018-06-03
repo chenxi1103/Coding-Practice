@@ -1,4 +1,3 @@
-*.txt linguist-language=java
 public class Solution {
     /**
      * @param root: A Tree
