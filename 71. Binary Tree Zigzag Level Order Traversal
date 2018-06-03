@@ -1,4 +1,4 @@
-```java
+*.txt linguist-language=java
 public class Solution {
     /**
      * @param root: A Tree
@@ -32,4 +32,3 @@ public class Solution {
         return result;
     }
 }
-```
