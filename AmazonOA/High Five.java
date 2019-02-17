@@ -27,6 +27,7 @@ public class Solution {
                 return diff;
             }
         });
+
         for(int i = 0; i < results.length; i++){
             pq.offer(results[i]);
         }
