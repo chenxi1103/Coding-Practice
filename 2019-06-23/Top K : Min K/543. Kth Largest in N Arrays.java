@@ -3,6 +3,8 @@
 // 所以想把hard变成medium，第一步就是对每一个array都排序，让它变成有序的array
 // 然后把每个array里最大的数先加进去，然后priorityqueue会自动排序出最大的那个数，然后
 // 再从当前最大数所在的array里，拿第二大的数，以此类推。
+
+// 时间复杂度是m*n*log(n)
 public class Solution {
     class Point {
         int firstIndex;
