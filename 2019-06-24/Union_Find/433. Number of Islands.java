@@ -29,7 +29,6 @@ public class Solution {
                 this.count--;
             }
         }
-
     }
     /**
      * @param grid: a boolean 2D matrix
