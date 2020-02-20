@@ -1,2 +1,2 @@
-# Lintcode_Practice
-For saving the solutions to the Lintcode questions
+# Coding Practice
+For saving the solutions to the coding questions
